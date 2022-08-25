@@ -4,6 +4,7 @@
   "version": "0.9.13",
   "author": "David Feinberg",
   "main": "lib/connect-sqlite3",
+  "type": "module",
   "scripts": {
     "test": "mocha test/test.js"
   },
